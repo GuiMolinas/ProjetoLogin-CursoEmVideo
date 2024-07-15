@@ -1,2 +1,2 @@
-# ProjetoLogin-CursoEmVideo
-Projeto feito durante as aulas disponibilzadas pelo Curso Em Video
+# projeto-login
+ Projeto de Tela de Login realizado com Curso em Vídeo
